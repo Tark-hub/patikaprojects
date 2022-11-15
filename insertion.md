@@ -1,4 +1,4 @@
-# Patika.dev Insertion Sort Projesi
+# Patika.dev Selection Sort Projesi
 
 ## insertion
 
