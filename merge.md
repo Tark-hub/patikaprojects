@@ -28,4 +28,5 @@ ___
 
 ___
 
+[www.patika.dev](https://www.patika.dev/tr)
 [Profilime Teşekkür :)](https://app.patika.dev/tcode)
