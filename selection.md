@@ -49,7 +49,7 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? yazınız.
 
 4. [2,3,4,5,7,9,8,15,6]		(1)
 
-
+[www.patika.dev](https://www.patika.dev/tr)
 [Profilime Teşekkür :)](https://app.patika.dev/tcode)
 
 
